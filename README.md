@@ -9,5 +9,6 @@ This repository contains C Programs Concept wise , Which I made to build basics 
 5) pointer
 6) function
 7) Dyanamic memory allocation
+8) Structure & Union
 
 updating soon ........
