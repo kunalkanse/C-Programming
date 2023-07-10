@@ -10,5 +10,7 @@ This repository contains C Programs Concept wise , Which I made to build basics 
 6) function
 7) Dyanamic memory allocation
 8) Structure & Union
+9) Conditional statements
+10) String in C
 
 updating soon ........
